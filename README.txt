@@ -1,2 +1,2 @@
 README:
-View the sample webpage at aaroncui.github.io/webLearning/ 
+View the sample webpage at http://aaroncui.github.io/webLearning/ 
