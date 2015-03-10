@@ -1,0 +1,23 @@
+/*css stylesheet for DoubleAce's Webpage*/
+h1{
+    font-family: Impact; 
+    text-align: center;
+}
+
+body{
+    background: grey
+}
+
+strong{
+    font-style: italic;
+    color: #90CCEE;
+}
+
+img {
+	width:200px;
+	height:200px;
+}
+
+table, td {
+	border: 1px #70b8ff dashed;
+}
