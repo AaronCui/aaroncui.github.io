@@ -1,7 +1,12 @@
 /*css stylesheet for DoubleAce's Webpage*/
+*{
+	font-size: 105%;
+}
+
 h1{
     font-family: Impact; 
     text-align: center;
+	font-size: 150%;
 }
 
 body{
