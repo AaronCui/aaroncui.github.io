@@ -36,6 +36,18 @@ table {
 	color: #90CCEE;
 }
 
+#github:hover{
+	border-color:white;
+	border-width:2px;
+	border-style:solid;
+	border-radius:50px;
+	background-color: grey;
+	margin: auto;
+	text-align: center;
+	text-decoration: none;
+	color: #90CCEE;
+}
+
 ol{
 	margin: 0;
 	padding: 0;
@@ -51,6 +63,6 @@ ul{
 
 IMG.bun{
 	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
 }
+
